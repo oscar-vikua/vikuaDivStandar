@@ -1,0 +1,10 @@
+Package: vikuaDivStandar
+Type: Package
+Title: Vikau-container-div
+Version: 0.1.0
+Author: Oscar Villamizar
+Maintainer: The package maintainer <ovillamizar@vikua.com>
+Description: Este es un paquete de R generado una y exclusivamente para la empresa vikua
+License: MIT
+Encoding: UTF-8
+LazyData: true
